@@ -5,7 +5,7 @@ function Featured() {
   return (
     <div className="h-[500px] w-full bg-gray-100 flex flex-col items-center justify-center">
       <div className="h-3/4 flex flex-col items-center mt-10">
-        <p className="text-4xl">Featured Property Types</p>
+        <p className="text-4xl font-bold">Featured Property Types</p>
         <p className="mt-5 mb-5 text-gray-500">Find All Type of Property.</p>
 
         <div className="w-full flex space-x-7">

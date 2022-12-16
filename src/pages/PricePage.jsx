@@ -7,7 +7,9 @@ function PricePage() {
         <div className=" bg-gray-500 text-white h-60">
           <div className="mt-36 ml-36">
             <p className="">30 days money back guarantee</p>
-            <p className="text-3xl">No Extra Fees. Friendly Support</p>
+            <p className="text-3xl font-bold">
+              No Extra Fees. Friendly Support
+            </p>
           </div>
         </div>
         <div className="mt-10 ">

@@ -5,11 +5,11 @@ function About() {
         <div className=" bg-gray-500 text-white h-60">
           <div className="mt-36 ml-36">
             <p className="">About Us</p>
-            <p className="text-3xl">About Us - Who We Are?</p>
+            <p className="text-3xl font-bold">About Us - Who We Are?</p>
           </div>
         </div>
         <div className="mt-10 ml-36 w-3/5">
-          <p className="text-3xl mb-3">Our Agency Story</p>
+          <p className="text-3xl mb-3 font-bold">Our Agency Story</p>
           <p className="text-gray-500 mb-8">
             Check out our company story and work process
           </p>

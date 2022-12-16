@@ -5,7 +5,7 @@ function Price() {
   return (
     <div className="w-full h-[800px] flex flex-col items-center ">
       <div className="flex flex-col items-center">
-        <p className="text-3xl">Select Your Package</p>
+        <p className="text-3xl font-bold">Select Your Package</p>
         <p className="text-center mt-5 text-gray-500">
           At vero eos et accusamus et iusto odio dignissimos ducimus qui
           blanditiis <br /> praesentium voluptatum deleniti atque corrupti quos

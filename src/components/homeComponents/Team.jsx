@@ -5,7 +5,7 @@ function Team() {
   return (
     <div className="w-full h-[1150px] flex flex-col items-center ">
       <div className="flex flex-col items-center mt-20">
-        <p className="text-3xl">Our Featured Agents</p>
+        <p className="text-3xl font-bold">Our Featured Agents</p>
         <p className="text-center text-gray-500  mt-5">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor <br /> incididunt ut labore et dolore magna aliqua. Ut

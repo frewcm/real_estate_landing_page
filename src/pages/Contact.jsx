@@ -5,7 +5,7 @@ function Contact() {
         <div className=" bg-gray-500 text-white h-60">
           <div className="mt-36 ml-36">
             <p className="">Contact Us</p>
-            <p className="text-3xl">Get Helps & Friendly Support</p>
+            <p className="text-3xl font-bold">Get Helps & Friendly Support</p>
           </div>
         </div>
         <div className="mt-10 ml-36 w-3/5 bg-white p-5 shadow-lg shadow-slate-400">
